@@ -96,4 +96,4 @@ There were a few things that stood out to me about this language:
 -There are some similarities with JavaScript: variables, functions, constants, if/else statements, for loops, arrays<br>
 
 
-It was a bit daunting to jump into, but after looking over [this tutorial](http://howistart.org/posts/go/1/) from Mr. Bourgon, I feel more confident in continuing to pursue learning this language.
+It was a bit daunting to jump into, but after looking over [this tutorial](http://howistart.org/posts/go/1/) from Mr. Bourgon, I feel more confident in my ability to continue to pursue learning this language. Whether or not this is the best language to use to build web apps, as a coder it can be useful to have this as a skill when pursuing new career opportunities. 
